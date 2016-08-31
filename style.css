@@ -1,0 +1,81 @@
+@import 'https://fonts.googleapis.com/css?family=Arima+Madurai';
+#css-zen-garden{
+	background: linear-gradient(#98FF9A,#89E58B,#4C7F4D,#264027);*/
+	background: -webkit-linear-gradient(to left, #117A65 , #A9DFBF, #ABEBC6 ); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to left, #2BC0E4 , #EAECC6);  W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+;
+	color:#040A24;
+	line-height: 1;
+	font-family: 'Arima Madurai', cursive; 
+	flex-flow: column-reverse wrap;      
+}
+	
+}
+ol, ul {
+	list-style:square;
+}
+.page-wrapper{
+	
+  width: 960px;
+  margin: 20px auto;
+  padding: 20px
+
+}
+a { 
+	color: #117A65; 
+	font-size: 18px;
+	margin: 2px;
+}
+ 
+ h1 {
+ 	text-align: center;
+    font-size: 120px;
+}
+h2 {
+    text-align: center;
+}
+h3 { 
+    font: Courier;
+    letter-spacing: 1px; 
+    margin-bottom: 20px; 
+}
+p {
+    text-align: justify;
+}
+.summary {
+    text-align: center;
+    margin: 0px;
+}
+.preamble {
+    width: 50%;
+    float:right;
+    margin-left: 30px;
+    padding: 10px;
+}
+.explanation {
+    width: 50%;
+    float:right;
+    margin-left: 30px;
+    padding: 10px;
+}
+.participation {
+    width: 45%;
+    padding: 10px;
+
+}
+.benefits{
+	width: 45%;
+    padding: 10px;
+}
+
+#zen-requirements{
+	width: 50%;
+    float:right;
+    margin-left: 30px;
+    padding: 20px;
+}
+.sidebar ul {
+    padding: 10px;
+    margin: 0;
+    list-style: none;
+    overflow: hidden;
+}
